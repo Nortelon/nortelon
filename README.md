@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferzan Serbulend Ozturk</h1>
-<h3 align="center">Founder of DigitalBlaze | Level Designer</h3>
+<h3 align="center">Founder of CRYBION | Level Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nortelon&label=Profile%20views&color=0e75b6&style=flat" alt="nortelon" /> </p>
 
