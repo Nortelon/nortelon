@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nortelonn" target="blank"><img src="https://img.shields.io/twitter/follow/nortelonn?logo=twitter&style=for-the-badge" alt="nortelonn" /></a> </p>
 
-- 🔭 I’m currently working on DigitalBlaze **"Somnium"**
+- 🔭 I’m currently working on crybion **"INDEV"**
 
 - 🌱 I’m currently learning **C#, C++, Java**
 
