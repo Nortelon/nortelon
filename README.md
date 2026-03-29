@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h1 align="center">Hi there 👋, I'm Ferzan Serbulend Ozturk</h1>
+  <h1 align="center">Hi there 👋, I'm Ferzan Ozturk</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3595F7&center=true&vCenter=true&width=435&lines=Founder+of+CRYBION;Level+Designer;Game+Developer" alt="Typing SVG" />
